@@ -48,4 +48,4 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: ackolakitus/DevOpsD5:latest
+          tags: ackolakitus/devopsD5:latest
